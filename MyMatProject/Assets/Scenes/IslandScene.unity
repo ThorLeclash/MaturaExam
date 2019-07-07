@@ -460,6 +460,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: character
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 9ee17b6a7b8d0dd44b55602acadbe51f,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: -6057140222963153312, guid: 9ee17b6a7b8d0dd44b55602acadbe51f,
         type: 3}
       propertyPath: m_ApplyRootMotion
@@ -554,7 +559,7 @@ GameObject:
   - component: {fileID: 2053917400}
   m_Layer: 0
   m_Name: Main Character
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
